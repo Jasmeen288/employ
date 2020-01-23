@@ -22,6 +22,7 @@ public class Testemploy {
            System.out.println("emp hrate"+e1.getHrate());
       
             System.out.println("emp salary"+e1.getSalary());
+        Sysetm.out.println("Salary of employee");
             
        e1.setName("hello");
        e1.setId("1234");
